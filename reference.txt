@@ -1,0 +1,5 @@
+사용했던 Github Repo
+https://github.com/pytorch/android-demo-app/tree/367d2d9448d453721f33f4cd6d1911627647016f
+
+학부연구생 당시 가장 최근 Github Repo
+https://github.com/pytorch/android-demo-app/tree/76ba0e04a423acbfe960dcd8dd9a0bc47c3893e7
